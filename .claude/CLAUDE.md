@@ -84,6 +84,47 @@ When drawing connections to gospel principles, consider these areas:
 - Question 2
 ```
 
+## Local Scripture Database
+
+A local SQLite database with full-text search is available for fast scripture lookups. **Use this instead of web searches for scripture text.**
+
+### Usage
+
+```bash
+# Search for text across all scriptures (uses FTS5 full-text search)
+uv run --project tools/scripture-search scripture-search search "keyword or phrase"
+
+# Filter by volume
+uv run --project tools/scripture-search scripture-search search "keyword" -v old-testament
+# Volumes: book-of-mormon, old-testament, new-testament, doctrine-and-covenants, pearl-of-great-price
+
+# Look up a specific verse
+uv run --project tools/scripture-search scripture-search verse "1 Nephi 3:7"
+
+# Get verse with surrounding context
+uv run --project tools/scripture-search scripture-search context "reference" -b 3 -a 3
+
+# Get an entire chapter
+uv run --project tools/scripture-search scripture-search chapter Genesis 1
+
+# List available books
+uv run --project tools/scripture-search scripture-search list books
+
+# Database stats
+uv run --project tools/scripture-search scripture-search stats
+```
+
+### Database Contents
+- **Book of Mormon**: 6,604 verses
+- **Doctrine and Covenants**: 3,654 verses
+- **Pearl of Great Price**: 635 verses
+- **Old Testament**: 23,145 verses
+- **New Testament**: 7,957 verses
+- **Total**: 41,995 verses
+
+### Source
+Scripture text from [bcbooks/scriptures-json](https://github.com/bcbooks/scriptures-json), stored in `scriptures-json/` and indexed in `data/scriptures.db`.
+
 ## Come Follow Me 2025
 
 This year's study focuses on the Old Testament. Key books and themes:

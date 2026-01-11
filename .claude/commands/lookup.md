@@ -1,18 +1,32 @@
 ---
 description: Find similar quotes, cross-references, and conference mentions
 argument-hint: [quote, phrase, or topic] (e.g., "I will go and do" or "charity never faileth")
-allowed-tools: WebSearch, WebFetch, Read, Write
+allowed-tools: WebSearch, WebFetch, Read, Write, Bash
 ---
 
 # Quote and Reference Lookup
 
 Find similar quotes and references for: **$ARGUMENTS**
 
+## Local Scripture Database
+
+Use the local scripture search tool first for fast lookups:
+```bash
+# Search for phrases across all scriptures
+uv run --project tools/scripture-search scripture-search search "I will go and do"
+
+# Filter by volume
+uv run --project tools/scripture-search scripture-search search "charity" -v book-of-mormon
+
+# Get verse with context
+uv run --project tools/scripture-search scripture-search context "Moroni 7:47" -b 2 -a 2
+```
+
 ## Search Process
 
 ### 1. Exact Phrase Search
 If a specific phrase is provided:
-- Search for exact matches across LDS canon
+- Use scripture-search to find exact matches across all scriptures
 - Find variations of the phrase in different scriptures
 - Note the original source and any quotations of it
 

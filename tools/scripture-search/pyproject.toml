@@ -1,0 +1,15 @@
+[project]
+name = "scripture-search"
+version = "0.1.0"
+description = "Local scripture search and lookup tools using SQLite FTS5"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = []
+
+[project.scripts]
+scripture-search = "scripture_search.cli:main"
+scripture-import = "scripture_search.import_db:main"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

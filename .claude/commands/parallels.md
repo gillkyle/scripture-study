@@ -1,12 +1,26 @@
 ---
 description: Find parallels between scripture/gospel topics and personal interests
 argument-hint: [topic or passage] (e.g., "repentance" or "Alma 36")
-allowed-tools: Read, Write, Edit, WebSearch
+allowed-tools: Read, Write, Edit, WebSearch, Bash
 ---
 
 # Interest Parallels
 
 Find meaningful connections between **$ARGUMENTS** and Kyle's interests.
+
+## Local Scripture Database
+
+Use the local scripture search tool to retrieve scripture passages:
+```bash
+# Get a chapter
+uv run --project tools/scripture-search scripture-search chapter Alma 36
+
+# Search for related verses
+uv run --project tools/scripture-search scripture-search search "repentance"
+
+# Get verse with context
+uv run --project tools/scripture-search scripture-search context "Alma 36:17" -b 2 -a 2
+```
 
 ## Kyle's Interest Areas
 

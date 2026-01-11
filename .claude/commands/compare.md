@@ -1,17 +1,32 @@
 ---
 description: Compare multiple scripture passages side-by-side
 argument-hint: [passages] (e.g., "Isaiah 53 and Mosiah 14" or "faith in Alma 32 vs Hebrews 11")
-allowed-tools: Read, Write, Edit, WebSearch
+allowed-tools: Read, Write, Edit, WebSearch, Bash
 ---
 
 # Scripture Comparison
 
 Compare the following passages or topics: **$ARGUMENTS**
 
+## Local Scripture Database
+
+Use the local scripture search tool to retrieve passages:
+```bash
+# Get a full chapter
+uv run --project tools/scripture-search scripture-search chapter Isaiah 53
+uv run --project tools/scripture-search scripture-search chapter Mosiah 14
+
+# Get specific verses with context
+uv run --project tools/scripture-search scripture-search context "Alma 32:21" -b 2 -a 2
+
+# Search for thematic terms across volumes
+uv run --project tools/scripture-search scripture-search search "faith" -v book-of-mormon
+```
+
 ## Comparison Process
 
 ### 1. Retrieve Passages
-Quote or summarize each passage being compared.
+Use scripture-search to retrieve each passage being compared.
 
 ### 2. Side-by-Side Analysis
 

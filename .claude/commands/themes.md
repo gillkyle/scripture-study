@@ -1,17 +1,32 @@
 ---
 description: Extract and organize themes from scripture or text
 argument-hint: [passage or topic] (e.g., "Exodus 3" or paste text directly)
-allowed-tools: Read, Write, Edit, WebSearch
+allowed-tools: Read, Write, Edit, WebSearch, Bash
 ---
 
 # Theme Extraction
 
 Analyze the following for themes: **$ARGUMENTS**
 
+## Local Scripture Database
+
+Use the local scripture search tool to retrieve text and find cross-references:
+```bash
+# Get a full chapter
+uv run --project tools/scripture-search scripture-search chapter Exodus 3
+
+# Search for thematic terms
+uv run --project tools/scripture-search scripture-search search "holy ground"
+uv run --project tools/scripture-search scripture-search search "burning bush"
+
+# Get verse with context
+uv run --project tools/scripture-search scripture-search context "Exodus 3:5" -b 2 -a 2
+```
+
 ## Analysis Process
 
 ### 1. Read the Text
-If a scripture reference is provided, retrieve and quote the relevant text.
+If a scripture reference is provided, use scripture-search to retrieve the text.
 If text is pasted directly, work with that content.
 
 ### 2. Identify Major Themes
