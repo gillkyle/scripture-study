@@ -1,0 +1,176 @@
+# Moses 1 & Book of Abraham - Deep Dive Study
+
+**Date:** January 11, 2026
+**Focus:** Identity, Premortal Existence, Divine Purpose
+
+---
+
+## Context
+
+### Historical Setting
+- **Moses 1**: Revealed to Joseph Smith in June 1830 as part of the Joseph Smith Translation. Set after the burning bush (Exodus 3-4) but before the Exodus. Moses is "caught up into an exceedingly high mountain" for this theophany.
+- **Book of Abraham**: Translated 1835-1842 from Egyptian papyri. Set during Abraham's time in Ur and Egypt, before the covenant events of Genesis 12-17.
+
+### Why These Texts Matter
+These texts address fundamental questions:
+- Are humans inherently depraved or divine?
+- Did we exist before birth?
+- Why does anything exist?
+- What is Satan's primary attack strategy?
+
+---
+
+## Key Themes
+
+### 1. Divine Identity
+**Core Text:** Moses 1:4-6
+> "Behold, thou art my son... thou art in the similitude of mine Only Begotten"
+
+God repeatedly affirms Moses's identity *before* Satan attacks. This is the preparation pattern.
+
+### 2. The Identity Attack
+**Core Text:** Moses 1:12-22
+> Satan: "Moses, son of man, worship me."
+> Moses: "Who art thou? For behold, I am a son of God, in the similitude of his Only Begotten"
+
+Satan's strategy: Attack identity first. "Son of man" vs "son of God" — reduce divine nature to mere mortality.
+
+### 3. Cosmic Perspective & Individual Worth
+**Core Text:** Moses 1:10, 33, 39
+> "Man is nothing, which thing I never had supposed"
+> "Worlds without number have I created"
+> "This is my work and my glory—to bring to pass the immortality and eternal life of man"
+
+The paradox: We are cosmically insignificant AND infinitely valuable. God's glory is defined by our success.
+
+### 4. Premortal Existence & Foreordination
+**Core Text:** Abraham 3:22-23
+> "Among all these there were many of the noble and great ones... Abraham, thou art one of them; thou wast chosen before thou wast born."
+
+We existed. We developed. We were chosen for specific work.
+
+### 5. The Purpose of Mortality
+**Core Text:** Abraham 3:24-26
+> "We will prove them herewith, to see if they will do all things whatsoever the Lord their God shall command them"
+
+Earth life is a test of obedience and faithfulness. The test only works because of the Atonement.
+
+---
+
+## Cross-References
+
+### Old Testament
+| Moses/Abraham | Old Testament |
+|---------------|---------------|
+| Moses sees God face to face (Moses 1:2) | Exodus 33:11 - "as a man speaketh unto his friend" |
+| "Worlds without number" (Moses 1:33) | Psalm 8:3-4 - "what is man, that thou art mindful of him?" |
+| Abraham's astronomy (Abraham 3) | Genesis 15:5 - "tell the stars, if thou be able" |
+| "Chosen before thou wast born" (Abraham 3:23) | Jeremiah 1:5 - "Before I formed thee in the belly I knew thee" |
+
+### Book of Mormon
+- **2 Nephi 2:25** - "Men are, that they might have joy" (purpose of creation)
+- **Alma 13:3** - Priests "called and prepared from the foundation of the world"
+- **Helaman 14:30** - Agency to act, not be acted upon
+
+### New Testament
+- **Matthew 4:1-11** - Satan tempts Jesus: "If thou be the Son of God" (same identity attack)
+- **John 1:12** - "Power to become the sons of God"
+- **Romans 8:16-17** - "The Spirit beareth witness... we are children of God"
+- **Ephesians 1:4** - "Chosen us in him before the foundation of the world"
+
+### Doctrine & Covenants
+- **D&C 93:21-23** - "Ye were also in the beginning with the Father"
+- **D&C 76:24** - Inhabitants of many worlds are "sons and daughters unto God"
+- **D&C 138:53-56** - Noble and great ones in the spirit world
+
+---
+
+## Prophetic Commentary
+
+### Elder M. Russell Ballard (April 2013)
+"This Is My Work and Glory" - God's entire purpose is our salvation. The priesthood power that created galaxies exists to bless individual families.
+
+### Elder Neal A. Maxwell (October 1985)
+"Premortality, a Glorious Reality" - Those foreordained must still prove "chosen, and faithful." Premortal character matters, but mortal choices determine destiny.
+
+### President Thomas S. Monson
+"The worth of a human soul is its capacity to become as God."
+
+### Elder Rubén V. Alliaud (October 2024)
+"Sons and Daughters of God" - Satan's attack on Moses—calling him "son of man"—is the same attack he uses on us. Understanding our true identity "fundamentally changes personal decisions and spiritual direction."
+
+### Elder Brik V. Eyre (October 2025)
+"Know Who You Really Are" - "When you know and understand how completely you are loved as a child of God, it changes everything."
+
+---
+
+## Gospel Principles
+
+### Doctrines Taught
+1. **Divine Identity** - We are literal spirit children of God
+2. **Premortal Existence** - We lived and developed before birth
+3. **Purpose of Earth Life** - Testing, bodies, proving faithfulness
+4. **Nature of God** - Glorified being who knows us personally
+5. **Agency** - Central to the plan; we must choose
+6. **Satan's Tactics** - Attack identity first
+
+### How This Points to Christ
+- Moses is "in the similitude of mine Only Begotten" — Christ is the prototype
+- Christ was the "Chosen" one at the premortal council (Moses 4:2)
+- The test only works because of the Atonement
+- Moses resists Satan by invoking the Only Begotten's name (Moses 1:21)
+
+---
+
+## Parallels
+
+### Lord of the Rings
+- Frodo: "I am not made for perilous quests" — yet he was chosen
+- The hobbits' worth isn't in their power but their faithfulness
+- Providence working through the small and simple
+
+### Programming
+- Foreordination as compile-time assignment; mortal choices as runtime execution
+- Identity as immutable core state that shouldn't be overwritten
+- Satan's attack as attempting to corrupt the identity object
+
+### Anime
+- Naruto's identity declarations against self-doubt ("I will be Hokage")
+- Zuko's struggle with identity (son of the Fire Lord vs. his own path)
+- The hero who discovers they were chosen for a purpose all along
+
+---
+
+## Personal Application
+
+### Questions to Ponder
+1. When does Satan try to convince you that you're "just" mortal, flawed, insignificant?
+2. How do you hold both truths—cosmic insignificance AND infinite worth?
+3. What gifts or callings feel like they were prepared specifically for you?
+4. What commandment or prompting are you currently being tested on?
+5. What does it mean that God wins when you win?
+
+### Call to Action
+Moses resisted Satan because God had *repeatedly* told him who he was before the attack came. **Saturate yourself in identity declarations before the adversary attacks.** Read your patriarchal blessing. Rehearse scriptures about divine sonship/daughtership.
+
+---
+
+## Journal Prompts
+
+1. **Letter from your premortal self**: Based on Abraham 3, you were there. You saw the plan. You chose this. What would that version of you want you to remember?
+
+2. **Map your Moses 1 experience**: When have you felt God's presence, only to have Satan attack afterward? How did you resist?
+
+3. **"This is my work and my glory"**: If God's purpose and glory is your exaltation, how does that change how you view your mistakes? Your potential?
+
+---
+
+## Key Verses to Memorize
+
+- **Moses 1:39** - "This is my work and my glory—to bring to pass the immortality and eternal life of man"
+- **Abraham 3:22-23** - "These I will make my rulers... thou wast chosen before thou wast born"
+- **Moses 1:13** - "I am a son of God, in the similitude of his Only Begotten"
+
+---
+
+*Study completed January 11, 2026*
