@@ -1,12 +1,23 @@
 ---
 description: Search General Conference talks by topic, speaker, or scripture
 argument-hint: [topic, speaker, or scripture] (e.g., "faith" or "President Nelson" or "Mosiah 3:19")
-allowed-tools: WebSearch, WebFetch, Read, Write
+allowed-tools: WebSearch, WebFetch, Read, Write, Bash
 ---
 
 # General Conference Talk Search
 
 Search for General Conference talks related to: **$ARGUMENTS**
+
+## Local Scripture Database
+
+If searching by scripture reference, first retrieve the scripture text:
+```bash
+# Get the scripture being referenced
+uv run --project tools/scripture-search scripture-search verse "Mosiah 3:19"
+
+# Get context around it
+uv run --project tools/scripture-search scripture-search context "Mosiah 3:19" -b 2 -a 2
+```
 
 ## Search Strategy
 

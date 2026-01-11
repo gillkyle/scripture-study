@@ -1,12 +1,26 @@
 ---
 description: Generate difficult, thought-provoking questions that challenge assumptions and invite deep wrestling with scripture
 argument-hint: [passage or topic] (e.g., "Genesis 22" or "divine justice" or "Nephi killing Laban")
-allowed-tools: Read, Write, Edit, WebSearch, WebFetch
+allowed-tools: Read, Write, Edit, WebSearch, WebFetch, Bash
 ---
 
 # Meaningful Questions
 
 Generate challenging questions about: **$ARGUMENTS**
+
+## Local Scripture Database
+
+Use the local scripture search tool to retrieve passages:
+```bash
+# Get a chapter for context
+uv run --project tools/scripture-search scripture-search chapter Genesis 22
+
+# Search for related passages
+uv run --project tools/scripture-search scripture-search search "sacrifice Isaac"
+
+# Get verse with surrounding context
+uv run --project tools/scripture-search scripture-search context "1 Nephi 4:10" -b 3 -a 3
+```
 
 ## Purpose
 

@@ -1,12 +1,23 @@
 ---
 description: Guided reflective study session using Socratic dialogue
 argument-hint: [optional: passage or topic to focus on]
-allowed-tools: Read, Write, Edit, AskUserQuestion
+allowed-tools: Read, Write, Edit, AskUserQuestion, Bash
 ---
 
 # Reflective Study Interview
 
 Conduct a guided, interactive scripture study session using thoughtful questions.
+
+## Local Scripture Database
+
+When passages come up, use scripture-search to retrieve the text:
+```bash
+# Get verse with context
+uv run --project tools/scripture-search scripture-search context "reference" -b 2 -a 2
+
+# Search for related passages
+uv run --project tools/scripture-search scripture-search search "keyword"
+```
 
 ## Focus
 $ARGUMENTS

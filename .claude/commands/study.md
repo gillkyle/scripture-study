@@ -1,17 +1,37 @@
 ---
 description: Deep dive study of a scripture passage with context, cross-references, and application
 argument-hint: [passage] (e.g., "Genesis 1:1-5" or "1 Nephi 3:7")
-allowed-tools: Read, Write, Edit, WebSearch, WebFetch
+allowed-tools: Read, Write, Edit, WebSearch, WebFetch, Bash
 ---
 
 # Deep Dive Scripture Study
 
 Conduct a thorough study of the scripture passage: **$ARGUMENTS**
 
+## Local Scripture Database
+
+Use the local scripture search tool to find verses and cross-references:
+```bash
+# Search for text across all scriptures
+uv run --project tools/scripture-search scripture-search search "keyword"
+
+# Filter by volume (book-of-mormon, old-testament, new-testament, doctrine-and-covenants, pearl-of-great-price)
+uv run --project tools/scripture-search scripture-search search "keyword" -v old-testament
+
+# Look up a specific verse
+uv run --project tools/scripture-search scripture-search verse "Genesis 1:1"
+
+# Get verse with surrounding context
+uv run --project tools/scripture-search scripture-search context "1 Nephi 3:7" -b 3 -a 3
+
+# Get an entire chapter
+uv run --project tools/scripture-search scripture-search chapter Genesis 1
+```
+
 ## Study Process
 
 ### 1. Text Analysis
-- Quote the full passage text
+- Use scripture-search to retrieve the full passage text
 - Identify key words and phrases
 - Note any Hebrew/Greek meanings that illuminate understanding (for OT/NT)
 - Identify literary devices (chiasmus, parallelism, metaphor, etc.)
