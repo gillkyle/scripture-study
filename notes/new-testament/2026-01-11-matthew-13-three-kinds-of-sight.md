@@ -158,6 +158,32 @@ This is not cosmic unfairness. It is the nature of seeking. Those who want under
 
 ---
 
+## The Shape of Seeking
+
+If Jesus used parables to preserve agency—to create space for becoming rather than compel submission—then certain things follow for how we approach scripture, uncertainty, and our own transformation.
+
+**First: trust the uncertainty.** Not understanding immediately is not failure. It is invitation. The disciples didn't grasp the parables on first hearing either. They had to come back, stay after class, ask the embarrassing question. The confusion you feel when a passage resists you is not evidence that you lack the Spirit or that scripture has failed. It is the parable doing its work—creating the gap that only seeking can close.
+
+The demand for immediate clarity is often the demand to remain unchanged. We want answers we can file away, not questions we must live inside.
+
+**Second: staying matters more than cleverness.** The disciples were not theologians. Peter was a fisherman. Matthew collected taxes. They had no special training, no interpretive credentials, no academic sophistication. What they had was persistence. They stayed when others left. They asked when others assumed.
+
+> "From that time many of his disciples went back, and walked no more with him. Then said Jesus unto the twelve, Will ye also go away? Then Simon Peter answered him, Lord, to whom shall we go? thou hast the words of eternal life." (John 6:66-68)
+
+Peter's answer is not confident understanding. It is committed confusion. He doesn't claim to grasp everything Jesus has said. He claims there is nowhere else to go. That loyalty—staying in the presence of what you don't yet understand—is the whole difference between those who receive and those who walk away.
+
+**Third: becoming is the point, not mastering.** The goal of engaging the parables is not to decode them, catalog their meanings, and move on. It is to become the kind of person who keeps returning to them. The sower story isn't a puzzle to solve once; it's a mirror to revisit across a lifetime, seeing different things as you become different soil.
+
+Scripture is not information to acquire but environment to inhabit. You don't master the Sermon on the Mount. You let it master you, slowly, over years, as its impossible demands become possible through grace and practice.
+
+**Fourth: your response reveals you—but you can change.** The parable shows what kind of soil you are. What you do with it—ignore, dismiss, wrestle, pursue—exposes the condition of your heart.
+
+But here is the hope embedded in the teaching: unlike literal soil, you can choose to become different ground. The path can be broken up. The rocks can be cleared. The thorns can be uprooted. The very act of recognizing yourself as shallow or distracted or hard is the beginning of cultivation.
+
+Alma teaches that understanding comes "according to the heed and diligence which they give unto him" (Alma 12:9). Heed and diligence are choices. The soil is not fixed. The heart is not static. The one who was rocky ground last year can be good soil this year—not through willpower alone, but through the persistent choice to stay, to ask, to return.
+
+---
+
 ## The Mirror
 
 The most dangerous response to "they seeing see not" is to assure yourself you are among those who truly see. That is precisely what the Pharisees did. They had no doubt about their sight. Their certainty was absolute.
