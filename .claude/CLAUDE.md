@@ -105,6 +105,7 @@ This year's study focuses on the Old Testament. Key books and themes:
 - `/interview` - Guided reflective study session
 - `/compare [passages]` - Compare multiple scriptures
 - `/lookup [quote/topic]` - Find similar quotes and references
+- `/meaningful-questions [passage/topic]` - Generate difficult questions that challenge and stretch
 
 ## Study Workflow Options
 
@@ -114,6 +115,7 @@ This year's study focuses on the Old Testament. Key books and themes:
 4. **Reflective**: Use `/interview` for Socratic dialogue and personal application
 5. **Connected**: Use `/parallels` to bridge scripture with personal interests
 6. **Research**: Use `/conference` to find prophetic commentary on passages
+7. **Wrestling**: Use `/meaningful-questions` to generate hard questions, then explore them with other commands
 
 ## Tone
 
