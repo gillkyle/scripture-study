@@ -1,0 +1,422 @@
+{
+  "year": 2026,
+  "curriculum": "Old Testament",
+  "weeks": [
+    {
+      "week": 1,
+      "start_date": "2025-12-29",
+      "end_date": "2026-01-04",
+      "title": "The First Testament of Jesus Christ",
+      "readings": ["Introduction to the Old Testament"],
+      "theme": "Introduction to the Old Testament"
+    },
+    {
+      "week": 2,
+      "start_date": "2026-01-05",
+      "end_date": "2026-01-11",
+      "title": "This Is My Work and My Glory",
+      "readings": ["Moses 1", "Abraham 3"],
+      "theme": "God's purpose and our divine potential"
+    },
+    {
+      "week": 3,
+      "start_date": "2026-01-12",
+      "end_date": "2026-01-18",
+      "title": "In the Beginning God Created the Heaven and the Earth",
+      "readings": ["Genesis 1-2", "Moses 2-3", "Abraham 4-5"],
+      "theme": "The Creation"
+    },
+    {
+      "week": 4,
+      "start_date": "2026-01-19",
+      "end_date": "2026-01-25",
+      "title": "The Fall of Adam and Eve",
+      "readings": ["Genesis 3-4", "Moses 4-5"],
+      "theme": "The Fall"
+    },
+    {
+      "week": 5,
+      "start_date": "2026-01-26",
+      "end_date": "2026-02-01",
+      "title": "Teach These Things Freely unto Your Children",
+      "readings": ["Genesis 5", "Moses 6"],
+      "theme": "Adam's posterity and the gospel taught from the beginning"
+    },
+    {
+      "week": 6,
+      "start_date": "2026-02-02",
+      "end_date": "2026-02-08",
+      "title": "Noah Found Grace in the Eyes of the Lord",
+      "readings": ["Genesis 6-11", "Moses 8"],
+      "theme": "Noah, the Flood, and the Tower of Babel"
+    },
+    {
+      "week": 7,
+      "start_date": "2026-02-09",
+      "end_date": "2026-02-15",
+      "title": "The Abrahamic Covenant",
+      "readings": ["Genesis 12-17", "Abraham 1-2"],
+      "theme": "Covenant with Abraham"
+    },
+    {
+      "week": 8,
+      "start_date": "2026-02-16",
+      "end_date": "2026-02-22",
+      "title": "Is Any Thing Too Hard for the Lord?",
+      "readings": ["Genesis 18-23"],
+      "theme": "Abraham and Sarah, Sodom, sacrifice of Isaac"
+    },
+    {
+      "week": 9,
+      "start_date": "2026-02-23",
+      "end_date": "2026-03-01",
+      "title": "The Birthright Blessing",
+      "readings": ["Genesis 24-27"],
+      "theme": "Isaac, Rebekah, Jacob and Esau"
+    },
+    {
+      "week": 10,
+      "start_date": "2026-03-02",
+      "end_date": "2026-03-08",
+      "title": "Surely the Lord Is in This Place",
+      "readings": ["Genesis 28-33"],
+      "theme": "Jacob's ladder, Laban, wrestling with God"
+    },
+    {
+      "week": 11,
+      "start_date": "2026-03-09",
+      "end_date": "2026-03-15",
+      "title": "The Lord Was with Joseph",
+      "readings": ["Genesis 37-41"],
+      "theme": "Joseph sold into Egypt, Potiphar, prison, Pharaoh's dreams"
+    },
+    {
+      "week": 12,
+      "start_date": "2026-03-16",
+      "end_date": "2026-03-22",
+      "title": "God Meant It unto Good",
+      "readings": ["Genesis 42-50"],
+      "theme": "Joseph reunited with his brothers"
+    },
+    {
+      "week": 13,
+      "start_date": "2026-03-23",
+      "end_date": "2026-03-29",
+      "title": "I Have Remembered My Covenant",
+      "readings": ["Exodus 1-6"],
+      "theme": "Israel in bondage, Moses called"
+    },
+    {
+      "week": 14,
+      "start_date": "2026-03-30",
+      "end_date": "2026-04-05",
+      "title": "The Lord Brought Us Out of Egypt",
+      "readings": ["Exodus 7-13"],
+      "theme": "The plagues and the Passover"
+    },
+    {
+      "week": 15,
+      "start_date": "2026-04-06",
+      "end_date": "2026-04-12",
+      "title": "Stand Still and See the Salvation of the Lord",
+      "readings": ["Exodus 14-17"],
+      "theme": "Red Sea crossing, manna, water from the rock"
+    },
+    {
+      "week": 16,
+      "start_date": "2026-04-13",
+      "end_date": "2026-04-19",
+      "title": "All That the Lord Hath Spoken We Will Do",
+      "readings": ["Exodus 18-20"],
+      "theme": "Jethro's counsel, Mount Sinai, the Ten Commandments"
+    },
+    {
+      "week": 17,
+      "start_date": "2026-04-20",
+      "end_date": "2026-04-26",
+      "title": "My Presence Shall Go with Thee",
+      "readings": ["Exodus 24", "Exodus 31-34"],
+      "theme": "Moses on Sinai, golden calf, tablets renewed"
+    },
+    {
+      "week": 18,
+      "start_date": "2026-04-27",
+      "end_date": "2026-05-03",
+      "title": "Holiness to the Lord",
+      "readings": ["Exodus 35-40", "Leviticus 1", "Leviticus 16", "Leviticus 19"],
+      "theme": "The tabernacle and offerings"
+    },
+    {
+      "week": 19,
+      "start_date": "2026-05-04",
+      "end_date": "2026-05-10",
+      "title": "Rebel Not Ye against the Lord, Neither Fear",
+      "readings": ["Numbers 11-14", "Numbers 20-24"],
+      "theme": "Murmuring, spies, Balaam"
+    },
+    {
+      "week": 20,
+      "start_date": "2026-05-11",
+      "end_date": "2026-05-17",
+      "title": "Beware Lest Thou Forget the Lord",
+      "readings": ["Deuteronomy 6-8", "Deuteronomy 18", "Deuteronomy 29-30", "Deuteronomy 34"],
+      "theme": "Moses's farewell, love the Lord, choose life"
+    },
+    {
+      "week": 21,
+      "start_date": "2026-05-18",
+      "end_date": "2026-05-24",
+      "title": "Be Strong and of a Good Courage",
+      "readings": ["Joshua 1-8", "Joshua 23-24"],
+      "theme": "Entering the promised land, Jericho, choose whom ye will serve"
+    },
+    {
+      "week": 22,
+      "start_date": "2026-05-25",
+      "end_date": "2026-05-31",
+      "title": "The Lord Raised Up a Deliverer",
+      "readings": ["Judges 2-4", "Judges 6-8", "Judges 13-16"],
+      "theme": "Deborah, Gideon, Samson"
+    },
+    {
+      "week": 23,
+      "start_date": "2026-06-01",
+      "end_date": "2026-06-07",
+      "title": "My Heart Rejoiceth in the Lord",
+      "readings": ["Ruth", "1 Samuel 1-3"],
+      "theme": "Ruth's loyalty, Hannah and Samuel"
+    },
+    {
+      "week": 24,
+      "start_date": "2026-06-08",
+      "end_date": "2026-06-14",
+      "title": "The Battle Is the Lord's",
+      "readings": ["1 Samuel 8-10", "1 Samuel 13", "1 Samuel 15-18"],
+      "theme": "Saul as king, David and Goliath"
+    },
+    {
+      "week": 25,
+      "start_date": "2026-06-15",
+      "end_date": "2026-06-21",
+      "title": "Thy Kingdom Shall Be Established for Ever",
+      "readings": ["2 Samuel 5-7", "2 Samuel 11-12", "1 Kings 3", "1 Kings 8", "1 Kings 11"],
+      "theme": "David's reign and sin, Solomon's wisdom and temple"
+    },
+    {
+      "week": 26,
+      "start_date": "2026-06-22",
+      "end_date": "2026-06-28",
+      "title": "If the Lord Be God, Follow Him",
+      "readings": ["1 Kings 17-19"],
+      "theme": "Elijah, drought, Baal, still small voice"
+    },
+    {
+      "week": 27,
+      "start_date": "2026-06-29",
+      "end_date": "2026-07-05",
+      "title": "There Is a Prophet in Israel",
+      "readings": ["2 Kings 2-7"],
+      "theme": "Elisha's miracles, Naaman healed"
+    },
+    {
+      "week": 28,
+      "start_date": "2026-07-06",
+      "end_date": "2026-07-12",
+      "title": "He Trusted in the Lord God of Israel",
+      "readings": ["2 Kings 17-25"],
+      "theme": "Fall of Israel and Judah, Hezekiah, Josiah"
+    },
+    {
+      "week": 29,
+      "start_date": "2026-07-13",
+      "end_date": "2026-07-19",
+      "title": "I Am Doing a Great Work",
+      "readings": ["Ezra 1", "Ezra 3-7", "Nehemiah 2", "Nehemiah 4-6", "Nehemiah 8"],
+      "theme": "Return from exile, rebuilding temple and walls"
+    },
+    {
+      "week": 30,
+      "start_date": "2026-07-20",
+      "end_date": "2026-07-26",
+      "title": "For Such a Time as This",
+      "readings": ["Esther"],
+      "theme": "Esther saves her people"
+    },
+    {
+      "week": 31,
+      "start_date": "2026-07-27",
+      "end_date": "2026-08-02",
+      "title": "I Know That My Redeemer Liveth",
+      "readings": ["Job 1-3", "Job 12-14", "Job 19", "Job 21-24", "Job 38-42"],
+      "theme": "Job's trials and testimony"
+    },
+    {
+      "week": 32,
+      "start_date": "2026-08-03",
+      "end_date": "2026-08-09",
+      "title": "The Lord Is My Shepherd",
+      "readings": ["Psalms 1-2", "Psalms 8", "Psalms 19-33", "Psalms 40", "Psalms 46"],
+      "theme": "Psalms of praise and trust"
+    },
+    {
+      "week": 33,
+      "start_date": "2026-08-10",
+      "end_date": "2026-08-16",
+      "title": "I Will Declare What He Hath Done for My Soul",
+      "readings": ["Psalms 49-51", "Psalms 61-66", "Psalms 69-72", "Psalms 77-78", "Psalms 85-86"],
+      "theme": "Psalms of repentance and deliverance"
+    },
+    {
+      "week": 34,
+      "start_date": "2026-08-17",
+      "end_date": "2026-08-23",
+      "title": "Let Every Thing That Hath Breath Praise the Lord",
+      "readings": ["Psalms 102-103", "Psalms 110", "Psalms 116-119", "Psalms 127-128", "Psalms 135-139", "Psalms 146-150"],
+      "theme": "Psalms of praise and testimony"
+    },
+    {
+      "week": 35,
+      "start_date": "2026-08-24",
+      "end_date": "2026-08-30",
+      "title": "The Fear of the Lord Is the Beginning of Wisdom",
+      "readings": ["Proverbs 1-4", "Proverbs 15-16", "Proverbs 22", "Proverbs 31", "Ecclesiastes 1-3", "Ecclesiastes 11-12"],
+      "theme": "Wisdom literature"
+    },
+    {
+      "week": 36,
+      "start_date": "2026-08-31",
+      "end_date": "2026-09-06",
+      "title": "God Is My Salvation",
+      "readings": ["Isaiah 1-12"],
+      "theme": "Isaiah's call, Immanuel, the Messiah"
+    },
+    {
+      "week": 37,
+      "start_date": "2026-09-07",
+      "end_date": "2026-09-13",
+      "title": "A Marvellous Work and a Wonder",
+      "readings": ["Isaiah 13-14", "Isaiah 24-30", "Isaiah 35"],
+      "theme": "Prophecies of the last days"
+    },
+    {
+      "week": 38,
+      "start_date": "2026-09-14",
+      "end_date": "2026-09-20",
+      "title": "Comfort Ye My People",
+      "readings": ["Isaiah 40-49"],
+      "theme": "The Suffering Servant, Israel's restoration"
+    },
+    {
+      "week": 39,
+      "start_date": "2026-09-21",
+      "end_date": "2026-09-27",
+      "title": "He Hath Borne Our Griefs",
+      "readings": ["Isaiah 50-57"],
+      "theme": "The Atonement of Jesus Christ"
+    },
+    {
+      "week": 40,
+      "start_date": "2026-09-28",
+      "end_date": "2026-10-04",
+      "title": "The Redeemer Shall Come to Zion",
+      "readings": ["Isaiah 58-66"],
+      "theme": "The fast, the Millennium, Zion"
+    },
+    {
+      "week": 41,
+      "start_date": "2026-10-05",
+      "end_date": "2026-10-11",
+      "title": "Before I Formed Thee in the Belly I Knew Thee",
+      "readings": ["Jeremiah 1-3", "Jeremiah 7", "Jeremiah 16-18", "Jeremiah 20"],
+      "theme": "Jeremiah's call and message"
+    },
+    {
+      "week": 42,
+      "start_date": "2026-10-12",
+      "end_date": "2026-10-18",
+      "title": "I Will Turn Their Mourning Into Joy",
+      "readings": ["Jeremiah 30-33", "Lamentations 1", "Lamentations 3"],
+      "theme": "Hope amid sorrow, the new covenant"
+    },
+    {
+      "week": 43,
+      "start_date": "2026-10-19",
+      "end_date": "2026-10-25",
+      "title": "A New Spirit Will I Put Within You",
+      "readings": ["Ezekiel 1-3", "Ezekiel 33-34", "Ezekiel 36-37", "Ezekiel 47"],
+      "theme": "Ezekiel's visions, valley of dry bones"
+    },
+    {
+      "week": 44,
+      "start_date": "2026-10-26",
+      "end_date": "2026-11-01",
+      "title": "There Is No Other God That Can Deliver",
+      "readings": ["Daniel 1-6"],
+      "theme": "Daniel's faithfulness, fiery furnace, lions' den"
+    },
+    {
+      "week": 45,
+      "start_date": "2026-11-02",
+      "end_date": "2026-11-08",
+      "title": "I Will Love Them Freely",
+      "readings": ["Hosea 1-6", "Hosea 10-14", "Joel"],
+      "theme": "God's covenant love, call to repentance"
+    },
+    {
+      "week": 46,
+      "start_date": "2026-11-09",
+      "end_date": "2026-11-15",
+      "title": "Seek the Lord, and Ye Shall Live",
+      "readings": ["Amos", "Obadiah"],
+      "theme": "Justice, the day of the Lord"
+    },
+    {
+      "week": 47,
+      "start_date": "2026-11-16",
+      "end_date": "2026-11-22",
+      "title": "He Delighteth in Mercy",
+      "readings": ["Jonah", "Micah"],
+      "theme": "Repentance, mercy, what the Lord requires"
+    },
+    {
+      "week": 48,
+      "start_date": "2026-11-23",
+      "end_date": "2026-11-29",
+      "title": "His Ways Are Everlasting",
+      "readings": ["Nahum", "Habakkuk", "Zephaniah"],
+      "theme": "God's judgment and faithfulness"
+    },
+    {
+      "week": 49,
+      "start_date": "2026-11-30",
+      "end_date": "2026-12-06",
+      "title": "Holiness unto the Lord",
+      "readings": ["Haggai", "Zechariah 1-3", "Zechariah 7-14"],
+      "theme": "Rebuilding the temple, Messianic prophecies"
+    },
+    {
+      "week": 50,
+      "start_date": "2026-12-07",
+      "end_date": "2026-12-13",
+      "title": "I Have Loved You, Saith the Lord",
+      "readings": ["Malachi"],
+      "theme": "Tithing, Elijah, the great and dreadful day"
+    },
+    {
+      "week": 51,
+      "start_date": "2026-12-14",
+      "end_date": "2026-12-20",
+      "title": "We Have Waited for Him, and He Will Save Us",
+      "readings": ["Isaiah 7-9", "Luke 1-2", "Matthew 1-2"],
+      "theme": "Christmas: The birth of Jesus Christ"
+    },
+    {
+      "week": 52,
+      "start_date": "2026-12-21",
+      "end_date": "2026-12-27",
+      "title": "Reflections on the Old Testament",
+      "readings": ["Year-end reflection and review"],
+      "theme": "Reviewing the Old Testament journey"
+    }
+  ]
+}
