@@ -5,6 +5,20 @@ __pycache__/
 .venv/
 *.egg-info/
 
+# Node.js / TanStack Start
+node_modules/
+.vinxi/
+.output/
+dist/
+
+# Fumadocs MDX
+.source/
+source.generated.ts
+
+# Vite
+*.timestamp_*.js
+.vite/
+
 # Scripture JSON source (can be re-cloned from https://github.com/bcbooks/scriptures-json)
 scriptures-json/
 

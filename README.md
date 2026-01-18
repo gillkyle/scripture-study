@@ -102,6 +102,53 @@ Find similar quotes, cross-references, and conference mentions.
 2. `/parallels [topic]` - Explore the connection
 3. `/study [related scripture]` - Go deeper
 
+## Documentation Site
+
+Your notes are also available as a searchable documentation website built with [Fumadocs](https://fumadocs.dev/) and [TanStack Start](https://tanstack.com/start).
+
+### Running the Docs Site
+
+```bash
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
+
+# Build for production
+npm run build
+
+# Preview production build
+npm run preview
+```
+
+The site includes:
+- **Full-text search** across all notes
+- **Tag-based navigation** to find related notes
+- **Category organization** (Old Testament, New Testament, Conference, Parallels, Personal)
+- **Dark mode** support
+- **Mobile-friendly** responsive design
+
+### Adding New Notes
+
+Create new MDX files in `content/docs/` with frontmatter:
+
+```mdx
+---
+title: Your Note Title
+description: Brief description of the note
+date: "2026-01-11"
+scripture: Genesis 1
+category: old-testament
+tags:
+  - creation
+  - genesis
+  - come-follow-me-2025
+---
+
+# Your content here...
+```
+
 ## Directory Structure
 
 ```
@@ -110,11 +157,19 @@ scripture-study/
 │   ├── CLAUDE.md           # Project context
 │   ├── commands/           # Study commands
 │   └── agents/             # Study companion agent
-├── notes/
+├── app/                    # TanStack Start application
+│   ├── routes/             # Page routes
+│   ├── lib/                # Utilities and source config
+│   └── styles/             # Global styles
+├── content/
+│   └── docs/               # MDX documentation files
+├── notes/                  # Original markdown notes
 │   ├── old-testament/      # OT study notes
 │   ├── book-of-mormon/     # BoM study notes
 │   ├── conference/         # Conference talk notes
 │   └── parallels/          # Interest connection notes
+├── tools/
+│   └── scripture-search/   # Local scripture database CLI
 └── README.md               # This file
 ```
 
