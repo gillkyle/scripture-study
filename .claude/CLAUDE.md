@@ -1,6 +1,6 @@
 # Scripture Study System
 
-This is Kyle's personal scripture study workspace for studying the Old Testament (Come Follow Me 2025), the Book of Mormon, and General Conference talks.
+This is Kyle's personal scripture study workspace for studying the Old Testament (Come Follow Me 2026), the Book of Mormon, and General Conference talks.
 
 ## Purpose
 
@@ -125,9 +125,11 @@ uv run --project tools/scripture-search scripture-search stats
 ### Source
 Scripture text from [bcbooks/scriptures-json](https://github.com/bcbooks/scriptures-json), stored in `scriptures-json/` and indexed in `data/scriptures.db`.
 
-## Come Follow Me 2025
+## Come Follow Me 2026
 
-This year's study focuses on the Old Testament. Key books and themes:
+This year's study focuses on the Old Testament. The weekly schedule is stored in `data/cfm-2026-schedule.json`.
+
+Key books and themes:
 - Genesis: Creation, covenants, patriarchs
 - Exodus: Deliverance, law, tabernacle
 - Leviticus: Holiness, sacrifice, atonement types
@@ -139,6 +141,7 @@ This year's study focuses on the Old Testament. Key books and themes:
 
 ## Available Commands
 
+- `/this-weeks-come-follow-me` - Get this week's CFM readings (auto-detects current week; say "next week" for upcoming)
 - `/study [passage]` - Deep dive study of a scripture passage
 - `/themes [text]` - Extract themes from text
 - `/parallels [topic]` - Find connections to personal interests
@@ -150,13 +153,14 @@ This year's study focuses on the Old Testament. Key books and themes:
 
 ## Study Workflow Options
 
-1. **Deep Dive**: Use `/study` for thorough passage analysis
-2. **Thematic**: Use `/themes` then `/lookup` to explore a topic across scriptures
-3. **Comparative**: Use `/compare` to see how different scriptures address the same theme
-4. **Reflective**: Use `/interview` for Socratic dialogue and personal application
-5. **Connected**: Use `/parallels` to bridge scripture with personal interests
-6. **Research**: Use `/conference` to find prophetic commentary on passages
-7. **Wrestling**: Use `/meaningful-questions` to generate hard questions, then explore them with other commands
+1. **Weekly CFM**: Start with `/this-weeks-come-follow-me` to see the current readings, then dive deeper with other commands
+2. **Deep Dive**: Use `/study` for thorough passage analysis
+3. **Thematic**: Use `/themes` then `/lookup` to explore a topic across scriptures
+4. **Comparative**: Use `/compare` to see how different scriptures address the same theme
+5. **Reflective**: Use `/interview` for Socratic dialogue and personal application
+6. **Connected**: Use `/parallels` to bridge scripture with personal interests
+7. **Research**: Use `/conference` to find prophetic commentary on passages
+8. **Wrestling**: Use `/meaningful-questions` to generate hard questions, then explore them with other commands
 
 ## Tone
 
