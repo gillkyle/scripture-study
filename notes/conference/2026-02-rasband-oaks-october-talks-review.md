@@ -112,6 +112,82 @@ Elder Rasband's "Stay with us... come back" has the energy of Naruto's refusal t
 
 ---
 
+## Deeper Themes from the Synthesis
+
+### Theme 1: The Family Is the Grammar of the Gospel
+
+President Oaks' formulation is striking in its completeness: the gospel was *taught* in an eternal family (premortal council), *implemented* through mortal families, and *destined* to produce eternal families. This means family is not just a topic the gospel addresses — it is the **structure** through which the gospel operates. Every ordinance, every covenant, every doctrine ultimately connects back to family relationships. The proclamation that Elder Rasband defends is not a policy statement; it's a description of reality's architecture.
+
+**Cross-references**:
+- Moses 1:39 — "This is my work and my glory — to bring to pass the immortality and eternal life of man." If God's work is exaltation, and exaltation requires eternal family (D&C 131:1-4), then family *is* the mechanism of God's work.
+- D&C 2:2 — Elijah will "plant in the hearts of the children the promises made to the fathers." The very last prophecy of the Old Testament (Malachi 4:5-6) and the first revelation of the Restoration (D&C 2) are both about turning hearts within families. The first and last word is family.
+
+### Theme 2: Doctrine with Open Arms
+
+Both speakers model a posture that is rare and worth studying: firm on doctrine, warm in delivery. Elder Rasband calls the proclamation "doctrine" and "words from God" — no hedging. Then in the same talk: "Stay with us... come back." President Oaks affirms that marriage and family are central to exaltation, then immediately adds that perfection is not limited to mortality and that those who struggle deserve love and patience.
+
+This is not contradiction — it is the full picture. Truth without mercy is cruelty. Mercy without truth is sentimentality. Both speakers hold the tension.
+
+**Cross-references**:
+- Alma 42:25 — "What, do ye suppose that mercy can rob justice? I say unto you, Nay; not one whit. If so, God would cease to be God." Alma teaches Corianton the same dual reality: justice is real, mercy is real, and neither cancels the other.
+- John 8:11 — "Neither do I condemn thee: go, and sin no more." Christ's response to the woman taken in adultery: compassion first, then the standard.
+
+### Theme 3: The Grandfather Principle — Filling the Gaps
+
+President Oaks' grandfather saying "I will be your father" may be the most quietly powerful moment across both talks. It reveals something about how God's plan accounts for brokenness: not by making every family perfect from the start, but by providing people willing to step in. The plan is not fragile — it has redundancy built in. Grandparents, extended family, ward members, friends can all fill roles that are missing.
+
+Elder Rasband makes the same point differently: "You have family in your Savior, Jesus Christ." For those whose mortal families have failed them, Christ Himself fills the gap.
+
+**Cross-references**:
+- Psalm 68:6 — "God setteth the solitary in families." God's explicit work includes placing the alone into family structures.
+- Mosiah 5:7 — "Because of the covenant which ye have made ye shall be called the children of Christ, his sons, and his daughters; for behold, this day he hath spiritually begotten you." Covenant family is real family.
+
+### Theme 4: Technology as False Presence
+
+President Oaks' counsel to "turn your technologies off" is deceptively simple. The deeper insight is that technology creates an *illusion* of connection while actually inserting distance. You can be physically present with your family and spiritually absent — scrolling, distracted, half-listening. The inverse is also true: a family kneeling together in prayer, as President Oaks describes, is technologically unplugged but profoundly connected.
+
+This maps to a broader gospel pattern: Satan's counterfeits often look like the real thing but lack the substance. A social media feed looks like community but lacks covenant. A curated online persona looks like identity but lacks the vulnerability of real relationships.
+
+### Theme 5: The 30-Year Test
+
+Elder Rasband's choice to celebrate the proclamation's 30th anniversary highlights something about prophetic foresight. In 1995, the concerns in the proclamation were often dismissed as alarmist. Thirty years later, declining marriage rates, declining birthrates, and cultural confusion about family roles have confirmed exactly what the document warned about. President Oaks' data on marriage and birthrate decline is the empirical evidence for what the proclamation anticipated.
+
+This raises a question about how we receive prophetic counsel *before* the evidence is obvious. The proclamation was most useful when it was least popular.
+
+---
+
+## Questions to Wrestle With
+
+### On Family as Doctrine
+
+1. If the family really is the "grammar" of the gospel — the structure everything else operates through — what does that mean for people whose mortal families are broken, abusive, or absent? Is the doctrine cruel to them, or does President Oaks' grandfather story suggest the doctrine is actually *broader* than we think?
+
+2. President Oaks says the gospel plan was "first taught to us in the council of an eternal family." What does it mean that we learned the plan *as a family* before we came here? How should that shape how we teach the plan now?
+
+3. Elder Rasband says the proclamation is "doctrine." President Oaks frames family as the *organizing principle* of the entire plan. If family is that central, why do we sometimes treat it as just one topic among many in our teaching and worship?
+
+### On Compassion and Standards
+
+4. Both speakers hold doctrine firm while extending genuine compassion. In practice, most of us lean one direction or the other — either we soften the doctrine to avoid discomfort, or we hold the standard but lose the warmth. What would it take to hold both simultaneously, the way Rasband and Oaks model?
+
+5. Elder Rasband says "Stay with us... come back." This implies some have left or are leaving. What are the things that push people away, and how many of those are about the doctrine itself versus how we *deliver* the doctrine?
+
+6. President Oaks teaches that spiritual growth continues in the spirit world. If that's true, how should it change how we think about family members who haven't accepted the gospel? Does it make us more patient — or does it risk making us complacent?
+
+### On Practical Family Life
+
+7. "What those children really want for dinner is time with you." If this is true — and it almost certainly is — why is it so hard to act on? What specifically makes us reach for the phone instead of engaging the person in front of us?
+
+8. President Oaks lists specific activities: gardens, camping, sports, yard work, learning languages. These are strikingly ordinary. Is there something about *shared physical work* that binds families in ways that consuming entertainment together does not?
+
+9. Elder Rasband says "preside does not mean dominate" and shares how Sister Rasband corrected him. What does healthy correction look like in a marriage? How do you build a relationship where that kind of feedback is safe?
+
+### On Prophetic Foresight
+
+10. The Family Proclamation was issued in 1995, before many of today's cultural shifts were visible. What current prophetic counsel might we look back on in 30 years and say, "They saw it coming"? Are we paying attention now the way we wish we had then?
+
+---
+
 ## Personal Application
 
 1. Elder Rasband emphasized that "preside" does not mean "dominate." How do I ensure equal partnership in my closest relationships?
