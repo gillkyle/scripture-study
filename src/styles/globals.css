@@ -1,0 +1,38 @@
+@import "tailwindcss";
+@import "fumadocs-ui/css/neutral.css";
+@import "fumadocs-ui/css/preset.css";
+
+/* Custom styles for scripture study */
+@layer base {
+  :root {
+    --fd-primary: 220 80% 50%;
+    --fd-background: 0 0% 100%;
+    --fd-foreground: 222 47% 11%;
+    --fd-muted: 210 40% 96%;
+    --fd-muted-foreground: 215 16% 47%;
+    --fd-popover: 0 0% 100%;
+    --fd-popover-foreground: 222 47% 11%;
+    --fd-card: 0 0% 100%;
+    --fd-card-foreground: 222 47% 11%;
+    --fd-border: 214 32% 91%;
+    --fd-input: 214 32% 91%;
+    --fd-accent: 210 40% 96%;
+    --fd-accent-foreground: 222 47% 11%;
+  }
+
+  .dark {
+    --fd-primary: 217 91% 60%;
+    --fd-background: 222 47% 11%;
+    --fd-foreground: 210 40% 98%;
+    --fd-muted: 217 33% 17%;
+    --fd-muted-foreground: 215 20% 65%;
+    --fd-popover: 222 47% 11%;
+    --fd-popover-foreground: 210 40% 98%;
+    --fd-card: 222 47% 11%;
+    --fd-card-foreground: 210 40% 98%;
+    --fd-border: 217 33% 17%;
+    --fd-input: 217 33% 17%;
+    --fd-accent: 217 33% 17%;
+    --fd-accent-foreground: 210 40% 98%;
+  }
+}
